@@ -1,0 +1,1 @@
+INSERT INTO Person (id,name) VALUES(1,'刘勇');
